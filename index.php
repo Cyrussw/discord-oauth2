@@ -1,9 +1,13 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
 
-require('src/php/config.php');
-require('src/inc/header.php');
-
-?>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/src/js/script.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+    <title>Sairus CMD</title>
+</head>
 
 <body>
     <section class="section">
